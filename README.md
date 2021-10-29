@@ -38,3 +38,4 @@
 * * *
 
 ## Ссылки
+https://packagist.org/packages/badbrain/hangman
